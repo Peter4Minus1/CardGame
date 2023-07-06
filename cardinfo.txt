@@ -1,0 +1,217 @@
+Brianna
+HP: 250
+Cost: 7
+PASSIVE: None
+MOVE 1: VolleyballSpike
+	Damage: 80
+MOVE 2: MakePlans
+	Splash Move
+	+50.0% accuracy for 2 turn(s)
+MOVE 3: CarCrash
+	Accuracy: 80.0%
+	Damage: 150
+ Self Effect:
+	Damage: 100
+
+Clare
+HP: 300
+Cost: 7
+PASSIVE: Tall
+ Self Effect:
+	+10.0% resistance for 1 turn(s)
+MOVE 1: ClareShot
+	Damage: 30
+	-25.0% accuracy for 3 turn(s)
+	-25.0% evasion for 3 turn(s)
+MOVE 2: BiggestBird
+	Damage: 100
+ Self Effect:
+	Damage: 100
+MOVE 3: VolleyballBlock
+ Self Effect:
+	shield for 1 moves(s)
+	+40.0% resistance for 1 turn(s)
+
+Dan
+HP: 200
+Cost: 6
+PASSIVE: D1Frisbee
+ Self Effect:
+	+10.000000000000014% accuracy for 1 turn(s)
+MOVE 1: BuddyHollyRiff
+	Splash Move
+	Damage: 50
+MOVE 2: DweltAmongUs
+	Splash Move
+	+50.0% resistance for 1 turn(s)
+MOVE 3: MaidCostume
+	Splash Move
+	Accuracy: 80.0%
+	confuse for 1 moves(s)
+
+Tim
+HP: 225
+Cost: 6
+PASSIVE: Bakery
+ Self Effect:
+	Heal: 20
+MOVE 1: BIGFART
+	Damage: 80
+	-10.0% accuracy for 1 turn(s)
+MOVE 2: ProteinPowder
+ Self Effect:
+	Heal: 80
+	+50.0% dmgboost for 1 turn(s)
+MOVE 3: Motorcycle
+	Splash Move
+	+50.0% evasion for 1 turn(s)
+
+Samir
+HP: 250
+Cost: 6
+PASSIVE: QuickLearner
+ Self Effect:
+	+25.0% accuracy for 1 turn(s)
+MOVE 1: RightHook
+	Damage: 40
+ Self Effect:
+	+100% dmgboost for all turn(s)
+MOVE 2: DarkSouls
+ Self Effect:
+	+30.0% evasion for 3 turn(s)
+MOVE 3: Hospitality
+	Splash Move
+	Accuracy: guaranteed hit
+	Heal: 60
+
+Dylan
+HP: 250
+Cost: 6
+PASSIVE: None
+MOVE 1: MartialArts
+	Damage: 80
+MOVE 2: Workout
+ Self Effect:
+	+100% dmgboost for all turn(s)
+	+25.0% resistance for 1 turn(s)
+MOVE 3: CookRamen
+ Self Effect:
+	Heal: 100
+
+Alex
+HP: 200
+Cost: 5
+PASSIVE: None
+MOVE 1: BodySlam
+	Damage: 90
+MOVE 2: CallMommy
+	Accuracy: guaranteed hit
+	Heal: 75
+MOVE 3: 'GUYS STOP'
+	Accuracy: 75.0%
+	stun for 1 moves(s)
+
+Frank
+HP: 200
+Cost: 5
+PASSIVE: None
+MOVE 1: BrassFist
+	Damage: 80
+MOVE 2: DriveFast
+ Self Effect:
+	+50.0% evasion for 2 turn(s)
+MOVE 3: 8amCustomerService
+	Damage: 30
+	antiheal for 2 moves(s)
+
+Devaney
+HP: 200
+Cost: 5
+PASSIVE: None
+MOVE 1: WhiteChevyTahoe
+	Damage: 70
+ Self Effect:
+	+10.0% evasion for 1 turn(s)
+MOVE 2: ShutOffWifi
+	Splash Move
+	Remove all target's buffs
+MOVE 3: BlameGirlfriend
+ Self Effect:
+	Accuracy: 70.0%
+	invisible for 2 moves(s)
+
+Veronica
+HP: 200
+Cost: 4
+PASSIVE: None
+MOVE 1: VolleyballSet
+	Accuracy: guaranteed hit
+	+100% accuracy for 1 turn(s)
+	+100% dmgboost for 1 turn(s)
+MOVE 2: BigBandaid
+	Accuracy: guaranteed hit
+	Heal: 100
+MOVE 3: EMT
+	Accuracy: guaranteed hit
+	Cleanse all negative effects
+
+Peter
+HP: 175
+Cost: 4
+PASSIVE: None
+MOVE 1: SlideTackle
+	Damage: 50
+MOVE 2: 99OnPreCalc
+ Self Effect:
+	+200% dmgboost for 2 turn(s)
+MOVE 3: DiscordMod
+	Remove all target's buffs
+MOVE 4: STFU Samir
+	Splash Move
+	Accuracy: 40.0%
+	stun for 1 moves(s)
+
+Dean
+HP: 150
+Cost: 4
+PASSIVE: FratGuyTolerance
+ Self Effect:
+	+20.0% resistance for 1 turn(s)
+MOVE 1: Puke
+	Splash Move
+	Damage: 40
+	poison for 2 moves(s)
+MOVE 2: FootStank
+	Accuracy: 80.0%
+	stun for 1 moves(s)
+MOVE 3: ShaveHead
+	confuse for 2 moves(s)
+ Self Effect:
+	Damage: 40
+
+Andrew
+HP: 150
+Cost: 4
+PASSIVE: None
+MOVE 1: TOXIC
+	Damage: 60
+	poison for 3 moves(s)
+MOVE 2: FactsAndLogic
+	-50.0% resistance for 1 turn(s)
+	-50.0% dmgboost for 1 turn(s)
+MOVE 3: Roulette
+	Accuracy: 50.0%
+	Damage: 150
+ Self Effect:
+	Accuracy: 50.0%
+	Damage: 150
+
+Lily
+HP: 175
+Cost: 3
+PASSIVE: None
+MOVE 1: SlapTim
+	Damage: 50
+MOVE 2: Gossip
+	Splash Move
+	antiheal for 2 moves(s)

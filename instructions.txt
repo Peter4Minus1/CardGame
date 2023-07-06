@@ -1,0 +1,102 @@
+Step 1: Team Selection
+
+    Both players choose their team. 
+
+    Each has 25 points to work with in order to build their team. 
+    Each card is listed, along with its cost in points.
+    Type in the name of the card to add it to your team. 
+    Type '?' followed by the name of a card to see its stats and abilities.
+    Type 'end' to finalize your team.
+
+    Player 1 selects their team first, and Player 2 is allowed to see the opponent's team and build their team around it.
+    Duplicate cards are not allowed on the same team.
+
+
+Step 2: Lineups
+
+    Two cards are allowed on the field at a time.
+    Each player chooses which cards they would like to play first.
+    This will determine the order in which the cards play.
+
+Step 3: Battle
+
+    a. Main Objective
+        To win the game, eliminate all cards on the opposing team.
+
+        A card is eliminated when it hits 0 HP or lower.
+        When a player's card is eliminated, they will be prompted to replace it with another card on the team.
+
+    b. Move Selection
+        To select a move, type the number that corresponds to the move you would like to use.
+        Type '?' to see what all the moves do.
+        Type 'SWITCH' to substitute the current card for another one. This will use up the card's turn.
+        Type 'SKIP' to skip the current card's turn.
+
+        Some cards have a passive move. This will be performed at the start of the match and at the start of each turn.
+
+    c. Target Selection
+        Some moves automatically target the moving card, skipping this section.
+
+        If not, select the team you want to target by typing the team's number.
+
+        Splash moves will affect all cards on that targetted team.
+        Non-splash moves will prompt you to select the specific card you would like to target.
+
+    d. Display
+        Before each turn, the terminal will show a list of all the cards on the field, with their remaining HP.
+        Underneath each name, it lists all buffs and debuffs each card has.
+        The moving card is signified by a '>>>' before its name.
+
+Ability Index:
+    Damage:
+        lowers target's HP
+    DmgBoost:
+        increases damage done by a card
+    Resistance:
+        decereases damage taken by a card
+    Poison:
+        does 20 passive damage per turn
+
+    Heal:
+        restores target's HP; does not add HP above starting HP
+    Antiheal:
+        prevents card from gaining HP
+
+    Accuracy:
+        likelihood that a move hits its target; By default moves have 100% accuracy
+        a select few moves are a guaranteed hit
+    Accuracy Buff:
+        increases a card's accuracy on all moves
+    Evasion:
+        decreases a card's chance of getting hit
+    
+    Stun:
+        prevents a card from moving
+    Confuse:
+        card has a 50% chance of hitting itself with its move
+    Blind:
+        card cannot land targeted moves
+    Invisible:
+        prevents card from being targeted
+    Shield:
+        prevents all other cards on team from being targeted
+    
+    Cleanse:
+        Removes all negative effects on a card
+    Hack:
+        Removes all buffs on a card
+
+    Splash:
+        All cards on targeted team are affected
+        Ignores evasion and invisibility
+    
+    Duration:
+        the period of time that an effect stays on a card
+        some effects have unlimited duration
+    
+    
+    
+        
+        
+
+
